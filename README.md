@@ -6,7 +6,7 @@ Software & AI Enthusiast| Machine Learning Data Scientist|Web Developer
 
 As a passionate software developer and AI enthusiast, I strive to design solutions that leverage the power of technology to solve complex problems. With a background in data science and machine learning, I have a deep understanding of how to harness the vast amounts of data that surround us and turn it into actionable insights. My expertise in web development and programming has enabled me to bring cutting-edge applications to life, bridging the gap between the digital and physical worlds. I am always exploring new technologies, seeking to stay ahead of the curve and push the boundaries of what's possible. With a relentless drive to create, innovate, and make a positive impact, I am dedicated to delivering high-quality solutions that make a difference in the lives of those they serve. Join me on this exciting journey, and let's create something truly extraordinary together
 
-* 🌍  I'm based in Kigamboni , Dar Es Salaam ,Tanzania
+* 🌍  I'm based in Kinondoni, Dar Es Salaam ,Tanzania
 * 🖥️  See my portfolio at [Patrick Bijampola](http://patrickbijampola.netlify.app)
 * ✉️  You can contact me at [patrickbijampola@gmail.com](mailto:patrickbijampola@gmail.com)
 *     I'm now working on Test Driven Development (Laravel TDD)
